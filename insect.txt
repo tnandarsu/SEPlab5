@@ -1,0 +1,15 @@
+Ant
+Butterfly
+Caterpillar
+Cockroach
+Dragonfly
+Fly
+Locust
+Louse
+Mosquito
+Spider
+Stinkbug
+Termite
+Wasp
+Worm
+
