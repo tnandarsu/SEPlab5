@@ -41,4 +41,4 @@ trip = [ Walk("KMITL","KMITL SCB Bank",0.6),
 
 for travel in trip:
    travel_cost += travel.find_cost()
-print travel_cost
+print(travel_cost)
