@@ -36,7 +36,7 @@ class Train(Transportation):
       self.number_station = number_station
 
    def find_cost(self):
-      return 0
+      return 5*self.number_station
    
 # main program
 
